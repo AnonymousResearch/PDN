@@ -1,4 +1,4 @@
-## Progressively_Diffused_Networks
+## Progressively Diffused Networks
 
 The partial source code of "Progressively Diffused Networks for Semantic Image Segmentation", anonymous CVPR2017 submission.
 
